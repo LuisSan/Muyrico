@@ -1,3 +1,4 @@
+Here are some proposes for increase usability ([X] after developed propose)
 [ ]  Make addresses clickable and have them open the address in Google Maps in a new tab
 [ ]  Make images clickable and have them open the business’ website in a new tab
 [ ]  Clicking on a different sorting option automatically requeries the Yelp API, rather than having to manually click “Let’s Go” again
